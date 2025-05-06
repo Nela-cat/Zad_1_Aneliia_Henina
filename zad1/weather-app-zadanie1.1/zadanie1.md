@@ -89,4 +89,20 @@ IMAGE          CREATED          CREATED BY                                      
 <missing>      3 weeks ago      ENV LANG=C.UTF-8                                0B        buildkit.dockerfile.v0
 <missing>      3 weeks ago      ENV PATH=/usr/local/bin:/usr/local/sbin:/usr…   0B        buildkit.dockerfile.v0
 <missing>      3 weeks ago      # debian.sh --arch 'amd64' out/ 'bookworm' '…   74.8MB    debuerreotype 0.15
-  # Komentarz: Wyświetla liczbę i
+  # Komentarz: Wyświetla liczbę i szczegóły warstw.
+  # Komentarz: Wyświetla rozmiar obrazu.
+
+ Zrzut ekranu
+ 
+ 
+
+ 
+
+ 
+ 
+
+Linki
+- GitHub: https://github.com/Nela-cat/Zad_1_Aneliia_Henina/tree/main/zad1/weather-app-zadanie1.1
+- DockerHub:  https://hub.docker.com/repository/docker/nelacot/zad_1/tags
+
+
