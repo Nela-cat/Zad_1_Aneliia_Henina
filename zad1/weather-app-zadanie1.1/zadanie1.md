@@ -1,17 +1,3 @@
-
-
-Programowanie aplikacji w chmurze obliczeniowej 
-SPRAWOZDANIE Zadanie 1
-Grupa: IO 6.4  
- 		 	 
-Temat zajęć: 	Zadanie 1.1 - Aplikacje w chmurze 
-	 
- 	data zajęć: 06.05.25 
-Imię  i nazwisko 	Aneliia Henina		Prowadzący: 
-dr inż. Sławomir Przyłucki 
- 
- 
- 
 Opis projektu
 Aplikacja WeatherApp umożliwia sprawdzenie aktualnej pogody w wybranym mieście na podstawie API OpenWeatherMap.
 
@@ -103,13 +89,4 @@ IMAGE          CREATED          CREATED BY                                      
 <missing>      3 weeks ago      ENV LANG=C.UTF-8                                0B        buildkit.dockerfile.v0
 <missing>      3 weeks ago      ENV PATH=/usr/local/bin:/usr/local/sbin:/usr…   0B        buildkit.dockerfile.v0
 <missing>      3 weeks ago      # debian.sh --arch 'amd64' out/ 'bookworm' '…   74.8MB    debuerreotype 0.15
-  # Komentarz: Wyświetla liczbę i szczegóły warstw.
-  # Komentarz: Wyświetla rozmiar obrazu.
-
-
-
-Linki
-- GitHub: https://github.com/Nela-cat/Zad_1_Aneliia_Henina/tree/main/zad1/weather-app-zadanie1.1
-- DockerHub:  https://hub.docker.com/repository/docker/nelacot/zad_1/tags
-
-
+  # Komentarz: Wyświetla liczbę i
